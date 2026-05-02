@@ -183,7 +183,7 @@ A two-page Power BI dashboard covering sales performance, product profitability,
 
 ---
 
-### 2008 — Sustained Peak (Partial Year)
+### 2008 Sustained Peak (Partial Year)
 
 <img width="1864" height="815" alt="Screenshot 2026-05-02 115807" src="https://github.com/user-attachments/assets/6edfb173-15a6-43b0-bc51-91916b3dcdb8" />
 
