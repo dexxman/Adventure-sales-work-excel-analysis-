@@ -5,7 +5,7 @@
 A two-page Power BI dashboard covering sales performance, product profitability, and customer demographics for **Adventure Works** across 2005–2008.
 
 <img width="1857" height="813" alt="Screenshot 2026-05-02 115649" src="https://github.com/user-attachments/assets/35f128cc-d5d4-40ce-9b48-fa18643a9307" />
-
+<b></b>
 <img width="1864" height="794" alt="Screenshot 2026-05-02 115703" src="https://github.com/user-attachments/assets/86bf4d1f-1892-4ea1-9ef8-c3aec4471530" />
 
 
@@ -28,9 +28,9 @@ A two-page Power BI dashboard covering sales performance, product profitability,
 
 ## 📈 Sales Performance Highlights
 
-- **Best months in 2005:** May, June, and April — collectively **30.9%** of total profit
+- **Best months in 2005:** May, June, and April collectively **30.9%** of total profit
 - **Monthly revenue** dipped mid-year (Jun–Aug) before recovering strongly into **December (₦13.14M peak)**
-- **Q2 leads quarterly profit** at ₦39.02M (31%), followed by Q1 ₦32.30M (26%), Q4 ₦30.78M (24%), and Q3 ₦24.19M (19%) — profit is well-distributed across all quarters
+- **Q2 leads quarterly profit** at ₦39.02M (31%), followed by Q1 ₦32.30M (26%), Q4 ₦30.78M (24%), and Q3 ₦24.19M (19%) profit is well-distributed across all quarters
 - **Weekdays** drive **72.0%** of profit (₦90.94M); weekends contribute ₦35.35M
 - **Wednesday and Thursday** are the top-performing days, with highlighted weekdays contributing **43.8%** of total profit
 
@@ -73,7 +73,7 @@ A two-page Power BI dashboard covering sales performance, product profitability,
 2. **Mountain-200** is the top product family across all years (vs. Road-150 in 2008 alone)
 3. **Sell-through improved** to 158 products over the full period — broader catalogue engagement
 4. **Quarterly profit is balanced** across all four quarters, unlike the Q1/Q2 concentration seen in 2008 alone
-5. **Premium products dominate** at 86.9% of profit — high-value, lower-volume model confirmed
+5. **Premium products dominate** at 86.9% of profit high-value, lower-volume model confirmed
 6. **U.S. and Australia** are the two critical markets to prioritise
 
 # 📊 Adventure Works Sales Dashboard — Year-by-Year Analysis
@@ -197,10 +197,10 @@ A two-page Power BI dashboard covering sales performance, product profitability,
 | Transactions | 32,270 |
 
 **Sales Pattern:**
-- Revenue only through **July** — likely partial-year data
+- Revenue only through **July**  likely partial-year data
 - **Sharp drop in July**: ₦8.28M (Jun) → ₦296.53k (Jul) signals data cutoff or operational issue
-- **Jun, May, Apr** = **55.6%** of profit — H1 very strong
-- Q1: 44%, Q2: 56%, Q3: 1%, Q4: 0% — confirms partial year
+- **Jun, May, Apr** = **55.6%** of profit H1 very strong
+- Q1: 44%, Q2: 56%, Q3: 1%, Q4: 0% confirms partial year
 - Weekdays: **71.6%** of profit | Highlighted weekdays: **44.6%**
 
 <img width="1874" height="795" alt="Screenshot 2026-05-02 115950" src="https://github.com/user-attachments/assets/0da81a7a-0f8e-4089-a4bb-033e6585f194" />
@@ -208,7 +208,7 @@ A two-page Power BI dashboard covering sales performance, product profitability,
 
 **Product Highlights:**
 - **Road-150 Red returns** as #1 product (reverting from Mountain-200 in 2007)
-- Only **25 products sold** — sharp drop from 133 in 2007 (may reflect partial year)
+- Only **25 products sold**  sharp drop from 133 in 2007 (may reflect partial year)
 - Red: ₦10.56M back to dominance
 - Expensive products: **97.4%** — less expensive products shrink back to 2.6%
 
