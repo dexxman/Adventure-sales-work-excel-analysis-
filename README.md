@@ -261,9 +261,6 @@ A two-page Power BI dashboard covering sales performance, product profitability,
 **Problem:** The U.S. accounts for 7,819 customers vs. Canada's 1,571 — a 5x gap despite both being English-speaking Western markets.  
 **Recommendation:** Allocate increased marketing spend to Canada, Germany, and France where customer counts are low (1,571–1,810) but market potential likely mirrors the U.S.
 
-### ⚪ Data Completeness (2008)
-**Problem:** 2008 data appears to cut off in July, making year-end comparisons misleading.  
-**Recommendation:** Ensure the Power BI data pipeline is refreshed with full-year 2008 data. Implement automated data freshness alerts in the dashboard to flag incomplete periods.
 
 ---
 
