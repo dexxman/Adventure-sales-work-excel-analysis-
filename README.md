@@ -2,7 +2,7 @@
 
 # 📊 Adventure Works Sales Dashboard — All Years Summary
 
-A two-page Power BI dashboard covering sales performance, product profitability, and customer demographics for **Adventure Works** across 2005–2008.
+A two-page Interactive Excel dashboard covering sales performance, product profitability, and customer demographics for **Adventure Works** across 2005–2008.
 
 <img width="1857" height="813" alt="Screenshot 2026-05-02 115649" src="https://github.com/user-attachments/assets/35f128cc-d5d4-40ce-9b48-fa18643a9307" />
 <b></b>
